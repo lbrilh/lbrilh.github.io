@@ -14,7 +14,10 @@ gem "github-pages", group: :jekyll_plugins
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
-# gem "jekyll"
+gem "jekyll"
+gem "tzinfo-data"
+gem 'webrick', '~> 1.3', '>= 1.3.1'
+gem 'faraday-retry'
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 

@@ -7,13 +7,7 @@ main:
     url: /teaching/
 
   - title: "Certificates"
-    url: /talks/
-
-  - title: "Blog posts"
-    url: /year-archive/
+    url: /certificates/
 
   - title: "About"
     url: /about/
-
-  - title: "Guide"
-    url: /markdown/

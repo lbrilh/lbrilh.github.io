@@ -9,11 +9,11 @@ main:
   - title: "Certificates"
     url: /talks/
 
-  - title: "About"
+  - title: "Blog posts"
     url: /year-archive/
 
-  - title: "CV"
-    url: /cv/
+  - title: "About"
+    url: /about/
 
   - title: "Guide"
     url: /markdown/

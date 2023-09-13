@@ -11,4 +11,4 @@ Awarded: April 15, 2022
 
 ![Illustration Corporate Finance](/images/Introduction_to_corporate_finance.jpg)
 
-You can verify this certificate at: ![Link](https://www.coursera.org/verify/9VG6HX6GJMPE)
+You can verify this certificate at: <https://www.coursera.org/verify/9VG6HX6GJMPE>

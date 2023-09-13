@@ -11,4 +11,4 @@ Awarded: August 30, 2023
 
 ![Illustration SQL](/images/SQL.jpg)
 
-You can verify this certificate at: ![Link](https://coursera.org/verify/DLT3PA5XBDRB)
+You can verify this certificate at: <https://coursera.org/verify/DLT3PA5XBDRB>

@@ -1,12 +1,14 @@
 ---
 title: "Databases and SQL for Data Science with Python"
-excerpt: ""
+excerpt: "IBM"
 collection: certificates
 type: "Certificate"
 permalink: /certificates/SQL
-venue: "IBM"
-date: 2023-08-30
+weight: 3
 #location: "San Francisco, California"
 ---
+Awarded: August 30, 2023
 
 ![Illustration SQL](/images/SQL.jpg)
+
+You can verify this certificate at: https://coursera.org/verify/DLT3PA5XBDRB

@@ -1,6 +1,6 @@
 ---
 title: "Project 1: Predicting Swiss Electricity Prices"
-excerpt: ""
+excerpt: "Based on seasonal price data from other countries, predicting the electricity price in Switzerland - including preprocessing of the data"
 collection: portfolio
 permalink: /portfolio/project-1
 ---

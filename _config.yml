@@ -236,10 +236,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _certificates
   - scope:
       path: ""
-      type: certificates
+      type: portfolio
     values:
       layout: single
       author_profile: true

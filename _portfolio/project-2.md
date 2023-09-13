@@ -1,6 +1,6 @@
 ---
 title: "Project 2: Predicting Similar Food Taste"
-excerpt: ""
+excerpt: "Train and design neural network to predict similar food taste"
 collection: portfolio
 permalink: /portfolio/project-2
 ---

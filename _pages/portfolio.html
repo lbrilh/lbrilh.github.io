@@ -5,11 +5,10 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-Here you can find some of my previous Data Science / Machine Learning projects. 
+Here you can find some of my previous Data Science / Machine Learning projects.
 
 {% include base_path %}
 
-
-{% for post in site.portfolio %}
+{% for post in site.portfolio reversed %}
   {% include archive-single.html %}
 {% endfor %}

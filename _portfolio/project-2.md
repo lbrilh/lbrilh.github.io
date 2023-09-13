@@ -2,6 +2,7 @@
 title: "Predicting Similar Food Taste"
 excerpt: ""
 collection: portfolio
+permalink: /portfolio/project-2
 ---
 
 Based on a triplet input (anchor, positive and negative) of food pictures (anchor, similar taste and

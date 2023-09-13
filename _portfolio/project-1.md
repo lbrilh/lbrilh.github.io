@@ -2,6 +2,7 @@
 title: "Predicting Swiss Electricity Prices"
 excerpt: ""
 collection: portfolio
+permalink: /portfolio/project-1
 ---
 Based on seasonal price data from other countries, the electricity price in Switzerland is predicted.
 Preprocessing of the data was necessary.

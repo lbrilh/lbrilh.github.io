@@ -1,5 +1,6 @@
 ---
 title: "Databases and SQL for Data Science with Python"
+excerpt: ""
 collection: certificates
 type: "Certificate"
 permalink: /certificates/SQL
@@ -8,4 +9,4 @@ date: 2023-08-30
 #location: "San Francisco, California"
 ---
 
-(/images/SQL.jpg)
+![Illustration SQL](/images/SQL.jpg)

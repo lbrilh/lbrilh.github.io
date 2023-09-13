@@ -239,11 +239,12 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: certificates
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comment: true
 
 # Sass/SCSS
 sass:

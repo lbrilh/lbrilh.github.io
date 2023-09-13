@@ -240,6 +240,7 @@ defaults:
   - scope:
       path: ""
       type: certificates
+      sort_by: weight
     values:
       layout: single
       author_profile: true

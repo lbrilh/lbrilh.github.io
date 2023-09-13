@@ -1,5 +1,5 @@
 ---
-title: "Predicting Similar Food Taste"
+title: "Project 2: Predicting Similar Food Taste"
 excerpt: ""
 collection: portfolio
 permalink: /portfolio/project-2

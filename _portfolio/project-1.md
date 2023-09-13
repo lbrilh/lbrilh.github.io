@@ -1,5 +1,5 @@
 ---
-title: "Predicting Swiss Electricity Prices"
+title: "Project 1: Predicting Swiss Electricity Prices"
 excerpt: ""
 collection: portfolio
 permalink: /portfolio/project-1

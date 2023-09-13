@@ -13,6 +13,8 @@ ToDo: Exclude "Share on button" in Teaching Section
 
 ToDo: Colors in layout?
 
+ToDo: Reorder Certificates
+
 <!---Teaching
 ======
   <ul>{% for post in site.teaching %}

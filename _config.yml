@@ -239,7 +239,7 @@ defaults:
   # _certificates
   - scope:
       path: ""
-      type: portfolio
+      type: certificates
     values:
       layout: single
       author_profile: true

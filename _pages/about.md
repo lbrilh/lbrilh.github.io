@@ -9,7 +9,8 @@ I am a master student in Mathematics at ETH Zürich where I specialize in Data S
 
 Currently, I am writing my master thesis and I am supervised by [Prof. Peter Bühlmann](https://stat.ethz.ch/~buhlmann/) (Seminar for Statistics/ETH AI Center) and co-supervised by [Malte Londschien](https://www.londschien.ch/) (Doctoral Fellow at ETH AI Center). Tbc
 
-ToDo: Exclude "Share on button"
+ToDo: Exclude "Share on button" in Teaching Section
+ToDo: Colors in layout?
 
 <!---Teaching
 ======

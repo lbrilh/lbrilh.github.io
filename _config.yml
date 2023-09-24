@@ -249,7 +249,7 @@ defaults:
   # _miscellaneous
   - scope:
       path: ""
-      type: miscellaneous
+      type: publications
       sort_by: weight
     values:
       layout: single

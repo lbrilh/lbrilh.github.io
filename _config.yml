@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Master Student"
+  name             : "Luca Brilhaus
   avatar           : "me.jpg"
   bio              : "in Mathematics at ETH Zürich"
   location         :
@@ -240,6 +240,16 @@ defaults:
   - scope:
       path: ""
       type: certificates
+      sort_by: weight
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _miscellaneous
+  - scope:
+      path: ""
+      type: miscellaneous
       sort_by: weight
     values:
       layout: single

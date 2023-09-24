@@ -1,9 +1,13 @@
 ---
-title: "Project 1: Predicting Swiss Electricity Prices"
-excerpt: "Build my own DEX "
-collection: miscellaneous
-permalink: /miscellaneous/others-1
+title: "Predicting"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2023-NM
+venue: "ETH Zürich, D-PHYS, Dr. Gradinaru"
+date: 2023-01-01
+#location: "City, Country"
 ---
+
 Based on seasonal price data from other countries, the electricity price in Switzerland is predicted.
 Preprocessing of the data was necessary.
 

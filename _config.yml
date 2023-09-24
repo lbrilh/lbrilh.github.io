@@ -187,9 +187,6 @@ collections:
   certificates:
     output: true
     permalink: /:collection/:path/
-  miscellaneous:
-    output: true
-    permalink: /:miscellaneous/:path/
 
 
 # Defaults
@@ -243,16 +240,6 @@ defaults:
   - scope:
       path: ""
       type: certificates
-      sort_by: weight
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _miscellaneous
-  - scope:
-      path: ""
-      type: publications
       sort_by: weight
     values:
       layout: single

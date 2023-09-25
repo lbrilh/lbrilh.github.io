@@ -11,4 +11,4 @@ Preprocessing of the data was necessary.
 * Predicted the Swiss electricity prices using kernelized ridge regression
 * Optimized ridge parameters doing CV
 
-[This Project's GitHub Repository]()
+[This Project's GitHub Repository](https://github.com/lbrilh/SwissElectricity)

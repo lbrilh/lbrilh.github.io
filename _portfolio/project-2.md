@@ -14,4 +14,4 @@ The image embeddings were generated using a pretrained neural network.
 * Split data into training and validation set
 * Multiple epochs were used to train neural network
 
-[This Project's GitHub Repository]()
+[This Project's GitHub Repository](https://github.com/lbrilh/FoodTaste)

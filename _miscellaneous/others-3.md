@@ -8,4 +8,4 @@ Built a DEX on Ethereum using Solidity. Deployed my own tokens and created liqui
 
 Download the [paper](http://lbrilh.github.io/files/DeFi_Report_Luca_Brilhaus.pdf).
 
-[This Project's GitHub Repository]()
+[This Project's GitHub Repository](https://github.com/lbrilh/DeFi)

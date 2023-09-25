@@ -2,6 +2,8 @@
 title: "The Bitcoin Game / Speaker at VIScon 2023"
 collection: miscellaneous
 permalink: /miscellaneous/others-2
+layout: archive
+weight: 3
 ---
 
 Speaker  

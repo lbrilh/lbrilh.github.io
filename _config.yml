@@ -250,7 +250,7 @@ defaults:
     # _miscellaneous
     - scope:
         path: ""
-        type: teaching
+        type: miscellaneous
       values:
         layout: single
         author_profile: true

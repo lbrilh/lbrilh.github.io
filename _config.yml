@@ -187,8 +187,9 @@ collections:
   certificates:
     output: true
     permalink: /:collection/:path/
-
-
+  miscellaneous:
+    output: true
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _posts

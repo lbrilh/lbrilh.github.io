@@ -247,6 +247,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+    # _miscellaneous
+    - scope:
+        path: ""
+        type: teaching
+      values:
+        layout: single
+        author_profile: true
+        share: true
+        comments: true
 
 
 # Sass/SCSS

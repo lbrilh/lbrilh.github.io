@@ -6,8 +6,4 @@ layout: archive
 weight: 3
 ---
 
-Speaker  
-
-Download the [paper](http://lbrilh.github.io/files/D23-G04-report.pdf).
-
-[This Project's GitHub Repository]()
+Speaker & presenter of "The Bitcoin Game" with Dr. Marcus Dapp (Head of Research at Bitcoin Suisse).

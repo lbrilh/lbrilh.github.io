@@ -12,8 +12,8 @@ Some small outlier correction has been performed in advance.
 <br/><img src='/Projects/TSA/MA.png'>
 * Used seasonal plots to identify weekly and yearly seasonal behavior
   * Verified seasonality using the periodogram
-  <br/><img src='/Projects/TSA/Correlation.png'>
-  <br/><img src='/Projects/TSA/Periodogramm.png'>
+<br/><img src='/Projects/TSA/Correlation.png'>
+<br/><img src='/Projects/TSA/Periodogramm.png'>
 * Used PACF to identify cyclic behavior and modeled it using an AR(8)-process
 <br/><img src='/Projects/TSA/PACF.png'>
 

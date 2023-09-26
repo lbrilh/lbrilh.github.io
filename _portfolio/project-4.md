@@ -1,11 +1,11 @@
 ---
 title: "Project 4: Time Series Forecasting of Store Sales"
-excerpt: "Predicted the store sales in Ecuador using Time Series Analysis"
+excerpt: "Predicted store sales in Ecuador using Time Series Analysis"
 collection: portfolio
 permalink: /portfolio/project-4
 ---
 
-In advance some small outlier correction has been performed.
+Some small outlier correction has been performed in advance.
 
 * Used a yearly moving average plot to identify an underlying trend
 * Used seasonal plots to identify weekly and yearly seasonal behavior

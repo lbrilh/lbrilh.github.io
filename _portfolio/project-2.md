@@ -5,13 +5,6 @@ collection: portfolio
 permalink: /portfolio/project-2
 ---
 
-Based on a triplet input (anchor, positive and negative) of food pictures (anchor, similar taste and
-distinct taste), a neural network was designed and trained to predict similar food tastes.
-The image embeddings were generated using a pretrained neural network.
-
-* Transformed, resized and normalized images to generate embeddings using ResNet50
-* Designed neural network using ReLu activation functions via the pytorch library
-* Split data into training and validation set
-* Multiple epochs were used to train neural network
+A neural network was trained to predict similar food tastes based on triplets of food pictures (anchor, similar taste, and distinct taste). Image embeddings were generated using ResNet50 by transforming, resizing, and normalizing the images. The neural network was designed with ReLU activation functions using the PyTorch library. The data was split into training and validation sets, and multiple epochs were used for training.
 
 [This Project's GitHub Repository](https://github.com/lbrilh/FoodTaste)

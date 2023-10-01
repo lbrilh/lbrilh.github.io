@@ -1,9 +1,12 @@
 ---
-title: "The Bitcoin Game / Speaker at VIScon 2023"
+title: "Building a DEX on Ethereum"
 collection: miscellaneous
 permalink: /supplement/others-2
 layout: archive
-weight: 3
 ---
 
-Speaker & co-developer of "The Bitcoin Game" with Dr. Marcus Dapp, Head of Research at Bitcoin Suisse. Our game offers an interactive offline group experience to explore the Bitcoin ecosystem from technological, economic, and societal perspectives.
+Built a DEX (based on UniSwap) on Ethereum using Solidity. Deployed my own tokens and created liquidity pairs for trading. Additionally, I wrote a smart contract that is able to view the pool balances of tokens in the DEX and that is able to perform atomic triple swaps of tokens A, B and C where one should receive at most value C of token C.
+
+Download the [paper](http://lbrilh.github.io/files/DeFi_Report_Luca_Brilhaus.pdf).
+
+[This Project's GitHub Repository](https://github.com/lbrilh/DeFi)

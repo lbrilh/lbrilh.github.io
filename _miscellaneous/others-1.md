@@ -6,8 +6,7 @@ layout: archive
 weight: 1
 ---
 
-Compared the performance of stocks, bonds, and precious metals over the last 50
-years with the performance of Bitcoin and Ethereum since inception. Created, modeled and analyzed a basket to save for retirement including modern portfolio theory (efficient frontiers).
+Conducted a comparative analysis of stocks, bonds, precious metals, Bitcoin, and Ethereum performance over the last 50 years. Additionally, created, modeled, and analyzed a retirement savings basket using modern portfolio theory, including efficient frontiers.
 
 Download the [paper](http://lbrilh.github.io/files/D23-G04-report.pdf).
 

@@ -6,4 +6,4 @@ layout: archive
 weight: 3
 ---
 
-Speaker & presenter of "The Bitcoin Game" with Dr. Marcus Dapp (Head of Research at Bitcoin Suisse). TbC
+Speaker & co-developer of "The Bitcoin Game" with Dr. Marcus Dapp, Head of Research at Bitcoin Suisse. Our game offers an interactive offline group experience to explore the Bitcoin ecosystem from technological, economic, and societal perspectives.

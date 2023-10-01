@@ -3,8 +3,7 @@ title: "Introduction to Corporate Finance"
 excerpt: "University of Pennsylvania, Wharton Online"
 collection: certificates
 type: "Certificate"
-permalink: /certifications/Corporate-Finance
-weight: 1
+permalink: /certifications/certificate-3
 #location: "San Francisco, California"
 ---
 Awarded: April 15, 2022

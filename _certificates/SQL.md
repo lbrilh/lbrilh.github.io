@@ -3,8 +3,7 @@ title: "Databases and SQL for Data Science with Python"
 excerpt: "IBM"
 collection: certificates
 type: "Certificate"
-permalink: /certifications/SQL
-weight: 3
+permalink: /certifications/certificate-1
 #location: "San Francisco, California"
 ---
 Awarded: August 30, 2023

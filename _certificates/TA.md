@@ -3,8 +3,7 @@ title: "Didactic Basics for Student Teaching Assistants"
 excerpt: "ETH Zürich, LET"
 collection: certificates
 type: "Certificate"
-permalink: /certifications/TA
-weight: 2
+permalink: /certifications/certificate-2
 ---
 Awarded: December 14, 2022
 

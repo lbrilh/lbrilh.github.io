@@ -1,8 +1,8 @@
 ---
-title: "Project 4: Time Series Forecasting of Store Sales"
+title: "Project 3 Time Series Forecasting of Store Sales"
 excerpt: "Forecasting store sales in Ecuador using Time Series Analysis"
 collection: portfolio
-permalink: /portfolio/project-4
+permalink: /portfolio/project-3
 ---
 
 Forecasted store sales in Ecuador using Time Series Analysis. Conducted small outlier corrections. Identified underlying trends with a yearly moving average plot and assessed weekly and yearly seasonal behavior using seasonal plots, verified with the periodogram.

@@ -1,5 +1,5 @@
 ---
-title: "Project 3 Time Series Forecasting of Store Sales"
+title: "Project 3: Time Series Forecasting of Store Sales"
 excerpt: "Forecasting store sales in Ecuador using Time Series Analysis"
 collection: portfolio
 permalink: /portfolio/project-3

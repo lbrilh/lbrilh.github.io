@@ -3,7 +3,7 @@ title: "Databases and SQL for Data Science with Python"
 excerpt: "IBM"
 collection: certificates
 type: "Certificate"
-permalink: /certificates/SQL
+permalink: /certifications/SQL
 weight: 3
 #location: "San Francisco, California"
 ---

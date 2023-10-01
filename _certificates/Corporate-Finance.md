@@ -3,7 +3,7 @@ title: "Introduction to Corporate Finance"
 excerpt: "University of Pennsylvania, Wharton Online"
 collection: certificates
 type: "Certificate"
-permalink: /certificates/Corporate-Finance
+permalink: /certifications/Corporate-Finance
 weight: 1
 #location: "San Francisco, California"
 ---

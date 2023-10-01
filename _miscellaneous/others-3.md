@@ -1,7 +1,7 @@
 ---
 title: "Building a DEX on Ethereum"
 collection: miscellaneous
-permalink: /miscellaneous/others-3
+permalink: /supplement/others-3
 layout: archive
 weight: 2
 ---

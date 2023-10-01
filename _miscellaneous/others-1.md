@@ -1,7 +1,7 @@
 ---
 title: "Bitcoin and Saving"
 collection: miscellaneous
-permalink: /miscellaneous/others-1
+permalink: /supplement/others-1
 layout: archive
 weight: 1
 ---

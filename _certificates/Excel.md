@@ -9,4 +9,4 @@ permalink: /certifications/certificate-4
 Awarded: May / July, 2018
 
 
-[Click here](http://lbrilh.github.io/files/EDV_Certificate.pdf) for the certifications
+[Click here](http://lbrilh.github.io/files/EDV_Certificate.pdf) for the certifications.

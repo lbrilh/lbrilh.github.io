@@ -9,4 +9,5 @@ Volunteering at the Hack4Good initiative of the ETH Analytics Club. In a team of
 
 [Participant Certificate](http://lbrilh.github.io/files/H4G.pdf)
 
-[This Project's GitHub Repository](https://github.com/itkagakusha/hack4goodbase)
+<!--[This Project's GitHub Repository](https://github.com/itkagakusha/hack4goodbase)
+-->

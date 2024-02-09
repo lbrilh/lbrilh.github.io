@@ -5,7 +5,9 @@ collection: portfolio
 permalink: /portfolio/project-3
 ---
 
-Forecasted store sales in Ecuador using Time Series Analysis. Conducted small outlier corrections. Identified underlying trends with a yearly moving average plot and assessed weekly and yearly seasonal behavior using seasonal plots, verified with the periodogram.
+Time series analysis is a crucial aspect of understanding and predicting sequential data. This notebook demonstrates various techniques and methodologies to analyze time series data, including preprocessing steps, trend detection, seasonality analysis, and forecasting.
+
+Forecasted store sales in Ecuador using Time Series Analysis. Conducted small outlier corrections. Identified underlying trends with a yearly moving average plot and assessed weekly and yearly seasonal behavior using seasonal plots, verified with the periodogram. 
 
 <br/><img src='/Projects/TSA/Observation.png'>
 <br/><img src='/Projects/TSA/MA.png'>
